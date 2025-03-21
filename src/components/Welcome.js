@@ -7,6 +7,7 @@ const Welcome = ({name}) => {
         <div>
             <h1>Hey! {name}</h1>
             <h2>Welcome to School</h2>
+            <p>We are excited to have you here.</p>
         </div>
     )
 }
